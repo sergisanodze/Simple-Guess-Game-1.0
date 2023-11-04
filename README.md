@@ -6,6 +6,6 @@ Simple number guess game for fun :) Made with JavaScript.
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-If you want to play this game just download this repository
+If you want to play this game just download repository & have fun!
 
-I'll be happy to be noticed for issues :)
+I would love to be noticed about issues :)

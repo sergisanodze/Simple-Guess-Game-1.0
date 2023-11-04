@@ -1,0 +1,29 @@
+*{
+    font-family: 'VT323', monospace;
+    color: white;
+}body{
+    background-color: black;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction: column;
+    gap: 50px;
+    height:100vh;
+}h1{
+    font-size: 50px;
+    letter-spacing: 5px;
+}button{
+    width: 200px;
+    height: 100px;
+    background-color: black;
+    border: solid 2px white;
+    font-size: 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}i{
+    color: red;
+    font-size: 30px;
+}.container{
+    display: flex;
+    gap: 30px;
+}
